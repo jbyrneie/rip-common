@@ -1,6 +1,6 @@
 [
-  { "region_id": 1, "region_name": "de: Harju" },
-  { "region_id": 2, "region_name": "de: Hiiu" },
+  { "region_id": 1, "region_name": "dde: Harju" },
+  { "region_id": 2, "region_name": "dde: Hiiu" },
   { "region_id": 3, "region_name": "de: Ida-Viru" },
   { "region_id": 4, "region_name": "de: Järva" },
   { "region_id": 5, "region_name": "de: Jõgeva" },
