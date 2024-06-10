@@ -7,7 +7,9 @@
     "@vercel/postgres": "0.5.0",
     "bcrypt": "5.1.1",
     "cookie": "0.6.0",
-    "dayjs": "1.11.10"
+    "dayjs": "1.11.10",
+    "decode": "0.3.0",
+    "html-entities": "2.5.2"
   },
   "engines": {
     "node": "20.x"
