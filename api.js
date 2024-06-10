@@ -22,6 +22,7 @@ export async function getNoticeById(noticeId) {
                   `
   console.log(query)
   const result = await sql.query(query)
+  console.log(`result: ${JSON.stringify(result)}`)
 
   let noticeDetails = result && result.rows ? result.rows[0] : null
   if (!noticeDetails) {
